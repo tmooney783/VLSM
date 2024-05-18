@@ -36,7 +36,7 @@ Then used this binary chart:
           7  6  5  4 3 2 1  
 
 
-to find how many hosts bits I needed to save.
+to find how many hosts bits I needed to save (7).
 
 So the new subnet mask would be: 
 
