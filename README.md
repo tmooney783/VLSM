@@ -84,11 +84,17 @@ So this departments new subnet mask would be:
 
     11111111.11111111.11111111.11000000
 
-new CIDR: /26
+new CIDR: 
 
-increment: 64
+    /26
 
-converted back to decimal: 255.255.255.192
+increment:
+
+    64
+
+converted back to decimal: 
+
+    255.255.255.192
 
 so the new network range is:
 
