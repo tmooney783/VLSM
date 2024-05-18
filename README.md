@@ -99,13 +99,13 @@ so the new network range is:
 
 ----
 
-Using the same method I gave the **'servers'** department the ranges of: 
+Using the same method I gave the **'Servers'** department the ranges of: 
 
     172.21.42.192 - 172.21.42.223  
                   or  
            172.21.42.192 /27
 
-and the **'guest'** department:
+and the **'Guests'** department:
 
     172.21.42.224 - 172.21.42.239  
                  or  
